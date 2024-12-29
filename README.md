@@ -1,9 +1,13 @@
 # 👾 89Tain — Code, Creativity, & Controlled Chaos  
 
-### **Hello World**  
+<details>
+<summary>### **Hello World**</summary>
+  
 I'm **Titani Manda**, a dynamic fusion of curiosity, creativity, and caffeine-fueled problem-solving. Whether I’m coding scripts that turn ideas into reality, painting lights like I’m channeling Van Gogh on a tech bender, or crafting captions that hit harder than gym day squats—I'm always striving to bring a touch of magic to everything I do. Am hungry!  
 
 If you’re searching for someone who can write poetic Instagram captions by day and Python by night, welcome. You’ve found the right profile.
+
+</details>
 
 ---
 
@@ -17,7 +21,7 @@ If you’re searching for someone who can write poetic Instagram captions by day
 ---
 
 ### 💻 **Technical Arsenal**  
-- 🐍 **Python**: After Keyra left, My love is Dart python. I make moves with the cursor
+- 🐍 **Python**: After Keyra left, My love is Dart python. I make moves with the cursor  
 - 🎨 **Creative Edge**: Visual thinker who thrives on designing unconventional solutions.  
 - 🛠️ **DIY Meets Digital**: Mixing my hands-on skills with digital tools to create something… uniquely me.  
 
