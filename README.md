@@ -12,6 +12,9 @@ If you’re searching for someone who can write poetic Instagram captions by day
 ### 🔥 **Core Vibes**  
 - 🐾 **Pawprint Energy**: Obsessed with growth, resilience, and lighting up dark spaces with positivity (literaly-yes my house lamps).  
 - 🎨 **DIY Enthusiast**: Whether it’s building wooden furniture or making questionable art decisions (yes, I painted my lights), I’m here for the ride.  
-- 💡 **Innovator**: Why repeat boring tasks when I can write a script that does it for me? Efficiency is the game, Python is the weapon. Also dart. PoW Pow!!🔫
+- 💡 **Innovator**: Why repeat boring tasks when I can write a script that does it for me? Efficiency is the game, Python is the weapon. Also dart. Pow Pow!!🔫
 - 🎧 **Playlist Architect**: My Spotify Wrapped screams versatility—Hov, Kids See Ghosts, K Dot—music fuels everything I do. June’s my birthday month, so no DNA test is needed to confirm my taste.  
-- ✍️ **Caption King**: Writing lines so good, they deserve a standing ovation.  
+- ✍️ **Caption King**: Writing lines so good, they deserve a standing ovation.
+
+---
+
