@@ -9,7 +9,7 @@ If you’re searching for someone who can write poetic Instagram captions by day
 
 ---
 
-### 🔥 **Core Vibes**  
+### **Loadout**  
 - 🐾 **Pawprint Energy**: Obsessed with growth, resilience, and lighting up dark spaces with positivity (literaly-yes my house lamps).  
 - 🎨 **DIY Enthusiast**: Whether it’s building wooden furniture or making questionable art decisions (yes, I painted my lights), I’m here for the ride.  
 - 💡 **Innovator**: Why repeat boring tasks when I can write a script that does it for me? Efficiency is the game, Python is the weapon. Also dart. Pow Pow!!🔫
